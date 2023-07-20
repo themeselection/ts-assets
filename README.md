@@ -38,17 +38,17 @@ Usage examples:
 **Logo**
 
 ```
-https://cdn.jsdelivr.net/gh/themeselection/ts-assets/vuexy/admin-template/logo/logo.png
+https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/logo/logo.png
 ```
 
 **Banner**
 
 ```
-https://cdn.jsdelivr.net/gh/themeselection/ts-assets/vuexy/admin-template/banner/vuexy-admin-template-banner.png
+https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner.png
 ```
 
 **Landing-page**
 
 ```
-https://cdn.jsdelivr.net/gh/themeselection/ts-assets/vuexy/landing-page/app-academy.png
+https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/landing-page/app-academy.png
 ```
