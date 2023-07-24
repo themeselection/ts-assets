@@ -36,19 +36,19 @@ https://cdn.jsdelivr.net/gh/<owner>/<repo>/path/to/file.extension
 Usage examples:
 
 **Logo**
-
+> The designated file name for the **logo** is **logo.png**, enabling effortless usage across multiple platforms.
 ```
 https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/logo/logo.png
 ```
 
 **Banner**
-
+> The designated file names for the **banner, banner light, and banner dark** are **banner.png, banner-light.png, and banner-dark.png**, enabling effortless usage across multiple platforms
 ```
 https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner.png
 ```
 
 **Landing-page**
-
+> The landing page images are prefixed by their respective categories, such as 'page-' and 'app-'.
 ```
 https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/landing-page/app-academy.png
 ```
