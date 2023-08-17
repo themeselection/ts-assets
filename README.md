@@ -56,7 +56,7 @@ https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-bootstrap-html-
 
 banner-dark.png (Used on the item page hero section for dark light comparison)
 ```
-https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner.png
+https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner-dark.png
 ```
 
 **Landing-page**
