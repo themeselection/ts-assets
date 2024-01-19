@@ -1,5 +1,5 @@
 on: push
-name: 🚀 Upload asstes on bunny cnd assets-storage
+name: 🚀 Upload assets on bunny cnd assets-storage
 jobs:
   web-deploy:
     name: 🎉 Upload
