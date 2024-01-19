@@ -1,0 +1,18 @@
+on: push
+name: 🚀 Upload asstes on bunny cnd assets-storage
+jobs:
+  web-deploy:
+    name: 🎉 Upload
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: uk.storage.bunnycdn.com
+        username: assets-storage
+        password: ${{ secrets.ftp_password }}
+        server-dir: ts-aseets/
+        # exclude: .git*
