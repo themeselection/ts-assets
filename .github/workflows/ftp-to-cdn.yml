@@ -13,8 +13,6 @@ jobs:
       with:
         server: uk.storage.bunnycdn.com
         username: assets-storage
-        password: ${{ secrets.ftp_password }}
-        local-dir: sneat/
-        git-ftp-args: --syncroot sneat/
+        password: ${{ secrets.ftp_password }}        
         server-dir: ts-assets/
         # exclude: .git*
