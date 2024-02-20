@@ -31,7 +31,7 @@ Table of contents:
 
 To use assets over cdn:
 ```
-https://ts-assets.b-cdn.net/ts-assets/path/to/file.extension
+https://cdn.themeselection.com/ts-assets/path/to/file.extension
 ```
 
 Usage examples:
@@ -39,7 +39,7 @@ Usage examples:
 **Logo**
 > The designated file name for the **logo** is **logo.png**, enabling effortless usage across multiple platforms.
 ```
-https://ts-assets.b-cdn.net/ts-assets/sneat/logo/logo.png
+https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png
 ```
 
 **Banner**
@@ -47,23 +47,23 @@ https://ts-assets.b-cdn.net/ts-assets/sneat/logo/logo.png
 
 **banner.png** (Used on the product card with the large pill of technology)
 ```
-https://ts-assets.b-cdn.net/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner.png
+https://cdn.themeselection.com/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner.png
 ```
 
 **banner-light.png** (Used on the item page hero section for dark light comparison)
 ```
-https://ts-assets.b-cdn.net/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner-light.png
+https://cdn.themeselection.com/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner-light.png
 ```
 
 **banner-dark.png** (Used on the item page hero section for dark light comparison)
 ```
-https://ts-assets.b-cdn.net/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner-dark.png
+https://cdn.themeselection.com/ts-assets/sneat/sneat-bootstrap-html-admin-template/banner/banner-dark.png
 ```
 
 **Landing-page**
 > The landing page images are prefixed by their respective categories, such as 'page-' and 'app-'.
 ```
-https://ts-assets.b-cdn.net/ts-assets/sneat/landing-page/app-academy.png
+https://cdn.themeselection.com/ts-assets/sneat/landing-page/app-academy.png
 ```
 
 
