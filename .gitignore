@@ -7,8 +7,6 @@ extras
 
 *.gif
 !*/item-page/*.gif
-!/marketing/video-testimonials/*
-
 *.mov
 *.mp4
 *.mp3
