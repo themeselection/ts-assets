@@ -7,7 +7,6 @@ extras
 
 *.gif
 !*/item-page/*.gif
-
 *.mov
 *.mp4
 *.mp3
