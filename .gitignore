@@ -14,5 +14,5 @@ extras
 *.psd
 *.aifc
 *.mkv
-.m4a
+*.m4a
 !**/marketing/video-testimonials/*
