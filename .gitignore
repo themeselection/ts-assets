@@ -16,6 +16,4 @@ extras
 *.mkv
 *.m4a
 *.HEIC
-*.jpg
-*.png
 !**/marketing/video-testimonials/*
