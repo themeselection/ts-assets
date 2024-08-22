@@ -15,4 +15,5 @@ extras
 *.aifc
 *.mkv
 *.m4a
+*.HEIC
 !**/marketing/video-testimonials/*
