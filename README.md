@@ -78,7 +78,7 @@ https://cdn.jsdelivr.net/gh/<owner>/<repo>/path/to/file.extension
 Usage examples:
 
 **Logo**
-> The designated file name for the **logo** is **logo.png**, enabling effortless usage across multiple platforms.
+> The designated file name for the **logo** is **logo.png**, enabling effortless usage across multiple platforms
 ```
 https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/logo/logo.png
 ```
