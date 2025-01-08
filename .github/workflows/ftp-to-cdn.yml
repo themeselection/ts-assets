@@ -15,4 +15,12 @@ jobs:
         username: assets-storage
         password: ${{ secrets.ftp_password }}        
         server-dir: ts-assets/
+        local-dir: ./  # Explicitly specify the local directory to upload
         # exclude: .git*
+        # Add these options to handle directory deletion more gracefully
+        dangerous-clean-slate: false
+        exclude: |
+          **/.git*
+          **/.github*
+
+        
