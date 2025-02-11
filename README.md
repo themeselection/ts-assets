@@ -2,7 +2,7 @@
 
 Use this repo for ThemeSelection products assets (Global CDN)
 
-> 💡 Use this repo as single source of truth for the template assets. 
+> 💡 Use this repo as single source of truth for the template assets.
 > 
 > As a result, if the design team changes the image, it will be updated automatically in all the places where it is used, such as the readme file, landing page image, etc..
 
